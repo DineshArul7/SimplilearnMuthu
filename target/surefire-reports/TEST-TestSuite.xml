@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="4.414" tests="2" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\dines\IdeaProjects\SimpliLearnMuthuReqRes\target\test-classes;C:\Users\dines\IdeaProjects\SimpliLearnMuthuReqRes\target\classes;C:\Users\dines\.m2\repository\io\rest-assured\rest-assured\5.3.0\rest-assured-5.3.0.jar;C:\Users\dines\.m2\repository\org\apache\groovy\groovy\4.0.6\groovy-4.0.6.jar;C:\Users\dines\.m2\repository\org\apache\groovy\groovy-xml\4.0.6\groovy-xml-4.0.6.jar;C:\Users\dines\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\dines\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\dines\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\dines\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\dines\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\dines\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\dines\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\dines\.m2\repository\io\rest-assured\xml-path\5.3.0\xml-path-5.3.0.jar;C:\Users\dines\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\dines\.m2\repository\io\rest-assured\json-path\5.3.0\json-path-5.3.0.jar;C:\Users\dines\.m2\repository\org\apache\groovy\groovy-json\4.0.6\groovy-json-4.0.6.jar;C:\Users\dines\.m2\repository\io\rest-assured\rest-assured-common\5.3.0\rest-assured-common-5.3.0.jar;C:\Users\dines\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\dines\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\dines\.m2\repository\org\testng\testng\7.5\testng-7.5.jar;C:\Users\dines\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar;C:\Users\dines\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar;C:\Users\dines\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\dines\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="java.vm.vendor" value="Amazon.com Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://aws.amazon.com/corretto/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Users\dines\.jdks\corretto-1.8.0_362\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\dines\AppData\Local\Temp\surefire1105890776924761183\surefirebooter7575883947538553187.jar C:\Users\dines\AppData\Local\Temp\surefire1105890776924761183 2023-03-10T11-05-59_893-jvmRun1 surefire8793823572775946561tmp surefire_04519073734614504018tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\dines\IdeaProjects\SimpliLearnMuthuReqRes\target\test-classes;C:\Users\dines\IdeaProjects\SimpliLearnMuthuReqRes\target\classes;C:\Users\dines\.m2\repository\io\rest-assured\rest-assured\5.3.0\rest-assured-5.3.0.jar;C:\Users\dines\.m2\repository\org\apache\groovy\groovy\4.0.6\groovy-4.0.6.jar;C:\Users\dines\.m2\repository\org\apache\groovy\groovy-xml\4.0.6\groovy-xml-4.0.6.jar;C:\Users\dines\.m2\repository\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;C:\Users\dines\.m2\repository\org\apache\httpcomponents\httpcore\4.4.13\httpcore-4.4.13.jar;C:\Users\dines\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;C:\Users\dines\.m2\repository\commons-codec\commons-codec\1.11\commons-codec-1.11.jar;C:\Users\dines\.m2\repository\org\apache\httpcomponents\httpmime\4.5.13\httpmime-4.5.13.jar;C:\Users\dines\.m2\repository\org\hamcrest\hamcrest\2.1\hamcrest-2.1.jar;C:\Users\dines\.m2\repository\org\ccil\cowan\tagsoup\tagsoup\1.2.1\tagsoup-1.2.1.jar;C:\Users\dines\.m2\repository\io\rest-assured\xml-path\5.3.0\xml-path-5.3.0.jar;C:\Users\dines\.m2\repository\org\apache\commons\commons-lang3\3.11\commons-lang3-3.11.jar;C:\Users\dines\.m2\repository\io\rest-assured\json-path\5.3.0\json-path-5.3.0.jar;C:\Users\dines\.m2\repository\org\apache\groovy\groovy-json\4.0.6\groovy-json-4.0.6.jar;C:\Users\dines\.m2\repository\io\rest-assured\rest-assured-common\5.3.0\rest-assured-common-5.3.0.jar;C:\Users\dines\.m2\repository\org\apache\logging\log4j\log4j-core\2.20.0\log4j-core-2.20.0.jar;C:\Users\dines\.m2\repository\org\apache\logging\log4j\log4j-api\2.20.0\log4j-api-2.20.0.jar;C:\Users\dines\.m2\repository\org\testng\testng\7.5\testng-7.5.jar;C:\Users\dines\.m2\repository\com\google\code\findbugs\jsr305\3.0.1\jsr305-3.0.1.jar;C:\Users\dines\.m2\repository\org\slf4j\slf4j-api\1.7.32\slf4j-api-1.7.32.jar;C:\Users\dines\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\dines\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\dines"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Users\dines\.jdks\corretto-1.8.0_362\jre"/>
+    <property name="basedir" value="C:\Users\dines\IdeaProjects\SimpliLearnMuthuReqRes"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\dines\AppData\Local\Temp\surefire1105890776924761183\surefirebooter7575883947538553187.jar"/>
+    <property name="sun.boot.class.path" value="C:\Users\dines\.jdks\corretto-1.8.0_362\jre\lib\resources.jar;C:\Users\dines\.jdks\corretto-1.8.0_362\jre\lib\rt.jar;C:\Users\dines\.jdks\corretto-1.8.0_362\jre\lib\sunrsasign.jar;C:\Users\dines\.jdks\corretto-1.8.0_362\jre\lib\jsse.jar;C:\Users\dines\.jdks\corretto-1.8.0_362\jre\lib\jce.jar;C:\Users\dines\.jdks\corretto-1.8.0_362\jre\lib\charsets.jar;C:\Users\dines\.jdks\corretto-1.8.0_362\jre\lib\jfr.jar;C:\Users\dines\.jdks\corretto-1.8.0_362\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_362-b08"/>
+    <property name="user.name" value="dines"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Users\dines\.jdks\corretto-1.8.0_362\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\dines\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://github.com/corretto/corretto-8/issues/"/>
+    <property name="java.io.tmpdir" value="C:\Users\dines\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2022.3.2"/>
+    <property name="java.version" value="1.8.0_362"/>
+    <property name="user.dir" value="C:\Users\dines\IdeaProjects\SimpliLearnMuthuReqRes"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\dines\.jdks\corretto-1.8.0_362\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\jdk-18.0.2.1\bin;C:\Users\dines\.jdks\corretto-1.8.0_362\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\dines\.jdks\corretto-1.8.0_362\bin;D:\Professional\Softwares\apache-maven-3.8.5\bin;C:\Users\dines\AppData\Local\Android\Sdk\tools\bin;C:\Users\dines\AppData\Local\Android\Sdk\tools;C:\Users\dines\AppData\Local\Android\Sdk\platform-tools;C:\Program Files\nodejs\node_modules\npm\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\dines\.jdks\corretto-1.8.0_362\bin;D:\Professional\Softwares\python\Python310\Scripts\;D:\Professional\Softwares\python\Python310\;C:\Users\dines\scoop\shims;C:\Users\dines\AppData\Local\Microsoft\WindowsApps;D:\Professional\Softwares\PyCharm\PyCharm Community Edition 2022.2.1\bin;C:\Users\dines\AppData\Local\Microsoft\WindowsApps;D:\Professional\Softwares\Microsoft VS Code\bin;C:\Users\dines\AppData\Roaming\npm;D:\Professional\Softwares\IntelliJ\IntelliJ IDEA Community Edition 2022.3.2\bin;;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Amazon.com Inc."/>
+    <property name="java.vm.version" value="25.362-b08"/>
+    <property name="java.specification.maintenance.version" value="4"/>
+    <property name="java.ext.dirs" value="C:\Users\dines\.jdks\corretto-1.8.0_362\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="reqresSimpliLearnGet" classname="org.example.AppTest" time="2.711"/>
+  <testcase name="reqresSimpliLearnPost" classname="org.example.AppTest" time="0.724"/>
+</testsuite>

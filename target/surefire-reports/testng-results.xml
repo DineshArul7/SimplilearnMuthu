@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="3465" started-at="2023-03-10T11:06:01 IST" finished-at="2023-03-10T11:06:04 IST">
+    <groups>
+    </groups>
+    <test name="C:/Users/dines/IdeaProjects/SimpliLearnMuthuReqRes" duration-ms="3465" started-at="2023-03-10T11:06:01 IST" finished-at="2023-03-10T11:06:04 IST">
+      <class name="org.example.AppTest">
+        <test-method status="PASS" signature="reqresSimpliLearnGet()[pri:0, instance:org.example.AppTest@3c0be339]" name="reqresSimpliLearnGet" duration-ms="2711" started-at="2023-03-10T11:06:01 IST" finished-at="2023-03-10T11:06:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reqresSimpliLearnGet -->
+        <test-method status="PASS" signature="reqresSimpliLearnPost()[pri:0, instance:org.example.AppTest@3c0be339]" name="reqresSimpliLearnPost" duration-ms="724" started-at="2023-03-10T11:06:04 IST" finished-at="2023-03-10T11:06:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reqresSimpliLearnPost -->
+      </class> <!-- org.example.AppTest -->
+    </test> <!-- C:/Users/dines/IdeaProjects/SimpliLearnMuthuReqRes -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

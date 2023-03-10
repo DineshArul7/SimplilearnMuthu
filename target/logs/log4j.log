@@ -1,0 +1,4 @@
+[INFO ] 2023-03-10 11:06:04.036 [main] AppTest - Successfully Validated the response
+[INFO ] 2023-03-10 11:06:04.040 [main] AppTest - {"data":{"id":2,"email":"janet.weaver@reqres.in","first_name":"Janet","last_name":"Weaver","avatar":"https://reqres.in/img/faces/2-image.jpg"},"support":{"url":"https://reqres.in/#support-heading","text":"To keep ReqRes free, contributions towards server costs are appreciated!"}}
+[INFO ] 2023-03-10 11:06:04.765 [main] AppTest - Successfully Validated the response
+[INFO ] 2023-03-10 11:06:04.766 [main] AppTest - {"name":"morpheus","job":"leader","id":"616","createdAt":"2023-03-10T05:36:04.579Z"}
